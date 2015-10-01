@@ -6,27 +6,182 @@
 
 
 
+/* Nav Bar */
+
+.top-part{
+
+	background-color: #A3D2DA;
+
+
+
+}
+
+
+/*Three Ideas */
+.three-options{
+
+margin-bottom: 40px;
+
+}
+
+
+.three-options img{
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top: 40px;
+}
+
+.three-options h4{
+	text-align: center;
+
+}
+
+
+.three-options p{
+	text-align: center;
+
+}
+
+
+/*Recent Works */
+
+
+.recent-works{
+	background-color: #99D2A5;
+	height: 658px;
+
+}
+
+.recent h4{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	background-color: #99D2A5;
+}
+
+.recent p{
+	background-color: #99D2A5;
+	color:white;
+	text-align: center;
+
+}
+
+.work-options{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+.work-options ul{
+	list-style-type: none;
+	margin-left: 28%;
+}
+
+.work-options li{
+	display: inline;
+	text-align: center;
+	margin-left: 46px;
+	color:white;
+}
 
 
 
 
 
-.contact-us{
+
+.work-pics{
 	text-align: center;
 }
 
-.form-control{
-	width: 50%;
+.first-pic-row{
+	margin-bottom: 30px;
+
 }
 
-#exampleInputMessage{
-	height:90px;
+
+.showmore-pic-button{
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left: 46%;
+	color:#706969;
+
+
 }
 
-.showmorebutton{
+
+/*Photoshop Templates*/
+
+.recent-works{
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Meet Our Team */
+
+.meet{
+	background-color: #DEB5C5;
+
+}
+
+.meet h3{
+	text-align: center;
+	font-size: 40px;
+	color:white;
+}
+
+.meet p{
+	text-align: center;
+	color:white;
+
+}
+
+.john-smiths{
 	text-align: center;
 
 }
+
+.john-smiths p{
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+/* Recent Posts */
+
+.recent{
+	background-color: #b4d3be;
+
+
+}
+
+
 
 /*SOCIL MEDIA ICONS BEGIN*/
 
@@ -133,6 +288,23 @@
 /*SOCIAL MEDIA ICONS END*/
 
 
+/* Contact Us */
+
+.contact-us{
+	text-align: center;
+	background-color: #3C3C3C;
+}
+
+.form-control{
+	width: 50%;
+}
+
+#exampleInputMessage{
+	height:90px;
+}
+
+.showmorebutton{
+	text-align: center;
 
 
 
