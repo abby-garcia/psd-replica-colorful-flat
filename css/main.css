@@ -165,6 +165,10 @@ margin-bottom: 40px;
 	color:black;
 }
 
+.john-background h4{
+	background-color: white;
+	
+}
 
 
 
@@ -175,11 +179,34 @@ margin-bottom: 40px;
 
 /* Recent Posts */
 
-.recent{
-	background-color: #b4d3be;
+.recent-post{
+	background-color: #53DEF0;
+	height: 488px;
+}
+
+.recent-post h3{
+	text-align: center;
+	font-size: 40px;
+	color:white;
+}
+
+.recent-post p{
+	text-align: center;
+	color:white;
+}
+
+.recent-post-sections{
+	text-align: center;
+
+}
+
+.interesting-post-button{
+	margin-top:30px;
+
 
 
 }
+
 
 
 
@@ -293,6 +320,21 @@ margin-bottom: 40px;
 .contact-us{
 	text-align: center;
 	background-color: #3C3C3C;
+	padding-top: 30px;
+
+}
+
+.contact-us h3{
+	color:white;
+	font-size: 40px;
+	margin-bottom: 30px;
+
+}
+
+.form-group{
+	margin-left: 500px;
+ 
+
 }
 
 .form-control{
@@ -305,6 +347,8 @@ margin-bottom: 40px;
 
 .showmorebutton{
 	text-align: center;
+
+}
 
 
 
