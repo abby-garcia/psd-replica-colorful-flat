@@ -11,10 +11,20 @@
 .top-part{
 
 	background-color: #A3D2DA;
+}
 
+.carousel-inner img{
+    float: right;
+}
 
+.carousel-inner h2{
+    text-align: center;
 
 }
+
+
+
+
 
 
 /*Three Ideas */
