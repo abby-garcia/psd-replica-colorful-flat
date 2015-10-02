@@ -13,12 +13,22 @@
 	background-color: #A3D2DA;
 }
 
+/*.carousel-inner{
+    width: 200px;
+
+}*/
+
+
+
 .carousel-inner img{
     float: right;
+    margin-left: 
 }
 
 .carousel-inner h2{
     text-align: center;
+    color:white;
+    margin-top: 30px;
 
 }
 
@@ -121,13 +131,45 @@ margin-bottom: 40px;
 
 
 /*Photoshop Templates*/
+.templates{
+    height: 550px;
 
-.recent-works{
+}
+
+
+.template1 {
+    padding-left: 186px;
+    margin-top: 40px;
+
+}
+
+
+.template2 img{
+    float: left;
+    margin-left: 570px;
+    margin-top:-138px;
+
 
 
 }
 
 
+.template2 h4{
+    float: left;
+    margin-left: 167px;
+
+}
+
+.template2 p{
+    float: left;
+    margin-left: 167px;
+
+}
+
+.template2 button{
+    margin-left: 25px;
+
+}
 
 
 
