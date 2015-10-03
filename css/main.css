@@ -21,14 +21,14 @@
 
 
 .carousel-inner img{
-    float: right;
-    margin-left: 
+    margin-left: 600px;
 }
 
 .carousel-inner h2{
     text-align: center;
     color:white;
     margin-top: 30px;
+    margin-left: -176px;
 
 }
 
@@ -399,7 +399,7 @@ margin-bottom: 40px;
 
 .form-control{
     width:40%;
-    margin-left: 70px;
+    margin-left: 139px;
 
 	
 }
