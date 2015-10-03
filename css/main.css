@@ -211,6 +211,7 @@ margin-bottom: 40px;
 .john-smiths{
 	text-align: center;
 
+
 }
 
 .john-smiths p{
@@ -222,8 +223,15 @@ margin-bottom: 40px;
 	
 }
 
+.john-background h5{
+    background-color: white;
+    
+}
 
-
+.john-background p{
+    background-color: white;
+    
+}
 
 
 
@@ -384,13 +392,16 @@ margin-bottom: 40px;
 }
 
 .form-group{
-	margin-left: 500px;
+	margin-left: 778px;
  
 
 }
 
 .form-control{
-	width: 50%;
+    width:40%;
+    margin-left: 70px;
+
+	
 }
 
 #exampleInputMessage{
@@ -402,8 +413,27 @@ margin-bottom: 40px;
 
 }
 
+/*Footer*/
+
+.verybottom{
+   float:right;
+
+}
+
+.bloom{
+    color: #F5DD25;
+
+}
+
+.wordpress{
+    color: #F5DD25;
+}
+
+.copyright{
+    color:#9F9E95;
 
 
+}
 
 
 
