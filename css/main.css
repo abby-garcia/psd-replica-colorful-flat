@@ -61,8 +61,19 @@
 
 }
 
+.carousel-indicators{
+    position:absolute; 
+    left: 590px; 
+    top: 220px;
+
+}
+
+.carousel-text{
+    position:absolute; left: 500px; top:40px"
 
 
+
+}
 
 
 
@@ -234,6 +245,9 @@
 
 }
 
+
+
+
 .john-smiths{
 	text-align: center;
 
@@ -264,6 +278,19 @@
     list-style-type: none;
     display: inline-block;
 }
+
+
+.meet-card{
+    margin: -10px 87px 0 85px; 
+    background-color: #fff;
+}
+
+.meet-icons{
+    margin-left: -35px;
+
+}
+
+
 
 
 
