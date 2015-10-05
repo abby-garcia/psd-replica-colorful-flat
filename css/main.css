@@ -30,9 +30,10 @@
 
 
 .nav-pills{
-    margin-left: 30px;
     font-size: 9px;
     font-family: 'Montserrat', sans-serif;
+    position:absolute; 
+    margin-left:  500px;
 }
 
 
@@ -69,15 +70,23 @@
 }
 
 .carousel-text{
-    position:absolute; left: 500px; top:40px"
+    position:absolute; 
+    left: 500px; 
+    top:40px;
+}
 
+
+
+/*Three Ideas */
+
+.options-background-color{
+    background-color: #fff;
 
 
 }
 
 
 
-/*Three Ideas */
 .three-options{
 
     margin-bottom: 40px;
@@ -157,11 +166,6 @@
 
 }
 
-
-
-
-
-
 .work-pics{
 	text-align: center;
 }
@@ -183,8 +187,17 @@
 
 
 /*Photoshop Templates*/
+
+.template-background-color{
+    background-color: #fff;
+
+
+
+}
+
+
 .templates{
-    height: 550px;
+    height: 426px;
 
 }
 
@@ -228,6 +241,7 @@
 
 .meet{
 	background-color: #DEB5C5;
+    height: 478px;
 
 }
 
@@ -303,16 +317,17 @@
     padding-top: 20px;
 }
 
+
+
+
 .recent-post h3{
 	text-align: center;
 	font-size: 40px;
-	color:white;
     font-family: 'Montserrat', sans-serif;
 }
 
 .recent-post p{
 	text-align: center;
-	color:white;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -320,6 +335,28 @@
 	text-align: center;
 
 }
+
+.recent-post-sections img{
+    width: 188px;
+    height: 129px;
+
+
+}
+
+.recent-title{
+    color:#fff;
+}
+
+
+.recent-card{
+    background-color: #fff;
+    margin: -10px 87px 0 85px; 
+
+
+}
+
+
+
 
 .interesting-post-button{
 	margin-top:30px;
